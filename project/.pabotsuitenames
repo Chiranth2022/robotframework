@@ -1,0 +1,6 @@
+datasources:e7f00984b91060d1b46d29702d8d988b6455e09a
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:1f27001639e6da2f7aa27abde7cce6295a9353e3
+--suite DDT
+--suite Suites.Driver
